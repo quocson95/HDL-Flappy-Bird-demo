@@ -1,0 +1,41 @@
+Quartus II Archive log --	D:/Workspace/DE2I_150/DE2i_150_VGA/DE2i_150_Default.qarlog
+
+Archive:	D:/Workspace/DE2I_150/DE2i_150_VGA/DE2i_150_Default.qar
+Date:		Tue Oct 18 10:56:05 2016
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/Workspace/DE2I_150/DE2i_150_VGA/DE2i_150_Default.qpf
+D:/Workspace/DE2I_150/DE2i_150_VGA/DE2i_150_Default.qsf
+D:/Workspace/DE2I_150/DE2i_150_VGA/DE2i_150_Default.sdc
+D:/Workspace/DE2I_150/DE2i_150_VGA/DE2i_150_Default.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/DE2i_150_Default_assignment_defaults.qdf
+D:/Workspace/DE2I_150/DE2i_150_VGA/LCD.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/LCD_Controller.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/LCD_TEST.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/Reset_Delay.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/SEG7_LUT.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/SEG7_LUT_8.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/VGA_DATA/img_data_logo.mif
+D:/Workspace/DE2I_150/DE2i_150_VGA/VGA_DATA/index_logo.mif
+D:/Workspace/DE2I_150/DE2i_150_VGA/img_data.qip
+D:/Workspace/DE2I_150/DE2i_150_VGA/img_data.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/img_data_bb.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/img_data_inst.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/img_index.qip
+D:/Workspace/DE2I_150/DE2i_150_VGA/img_index.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/img_index_bb.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/img_index_inst.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/incremental_db/compiled_partitions/DE2i_150_Default.db_info
+D:/Workspace/DE2I_150/DE2i_150_VGA/vga_controller.v
+D:/Workspace/DE2I_150/DE2i_150_VGA/video_sync_generator.v
+	======= Total: 24 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Oct 18 10:57:00 2016
+Source archive file:	D:/Workspace/DE2I_150/DE2i_150_VGA/DE2i_150_Default.qar
+Archive was extracted into	D:/Workspace/DE2I_150/test/
+		 - successfully.
